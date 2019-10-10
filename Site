@@ -1,9 +1,84 @@
 <!DOCTYPE html>
-<html>
-  <head>
-  	<title>Le site de Marceau</title>
-  </head>
-  <body>
+	<html lang="en">
+		<head>
+    		<meta charset="UTF-8"> 
+    			<title>
+   					La REVOKE
+				</title>
+    				<meta content="initial-scale=1.0, width=device-width" name="viewport">
+    				<link rel="stylesheet" href="css.css">
+    				<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+					<body>
+						<ul id="menu-deroulant">
+    						<li>
+    						<a href="#">Qui sommes nous ?</a>
+        					<ul>
+            				<li>
+            				<a href="#">lien sous menu 1</a>
+            				<a href="#">lien sous menu 2</a>
+           					<a href="#">lien sous menu 3</a>
+          					</li>
+     				   		</ul>
+  							</li>
+   					 		<header>
+        						<h1>La Revoke</h1>
+    						</header>
+    						<section>
+						</ul>
+       					<div class="img1">
+            			<div class="box box1">
+                			<h2>Qui sommes nous ?</h2>
+                			<p class="date">11/09/2019</p>
+                		<div class="text">
+                    		Nous somme une team fortnite actuellement en créations !
+                    		Nous recrutons des joueurs qui cherchent une team et qui
+                    		sont près à s'intégrer à 100% dans le projet de la team Revoke.
+                    		Nous aimerions nous faire connaitre à l'échelle mondiale, ce qui peut, à première vue être une épreuve impassable, mais avec la passion, je suis sûre que nopus pourrions y arriver !
 
-  </body>
+                    		Vous trouverez ci dessous un liens vers nos resaux !
+                		</div>
+      					<a href="https://twitter.com/RevokeWorld?s=09"><button class="learn">NOUS CONTACTER</button></a>
+           				</div>
+        				</div>
+    					</section>
+    <section>
+        <div class="img2">
+            <div class="box box2">
+                <h2>
+                Pourquoi Fortnite ?
+            	</h2>
+                <p class="date">
+                11/09/2019
+            	</p>
+                <div class="text">
+                    Nous nous sommes lancer dans fortnite c'est le jeu du moment qui passionne et via ce jeu, il y a beaucoup de moyen pour ce faire connaître ainsi que de recruter des petites perles. Notre but par la suite est de nous etendre sur d'autre juex, de recruter encore d'autre personne pour nous faire connaitre sur plusieurs jeux et pourquoi arriver dans le top sur certains d'entre eux !
+                </div>
+      <a href="http://www.topito.com/top-raison-bannir-fortnite-mort">
+      	<button class="learn">
+      	LEARN MORE
+      </button>
+  		</a>
+            </div>
+        </div>
+    </section>
+       <div class="img3">
+            <div class="box box2">
+                <h2>
+                jsp quoi mettre ici
+            	</h2>
+                <p class="date">
+                	11/09/2019
+                </p>
+                <div class="text">
+                    on verra bien 
+                </div>
+      				<a href="https://www.google.com/search?q=coucou&ie=utf-8&oe=utf-8&client=firefox-b-ab">
+      					<button class="learn">
+      						LEARN MORE
+      					</button>
+      				</a>
+            </div>
+        </div>
+    </section>
+</body>
 </html>
